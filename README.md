@@ -1,2 +1,2 @@
-# Tiny_invader2D Game
+# Tiny_invader 2D Game
 
