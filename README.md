@@ -4,4 +4,4 @@
 
 # INSTALLATION
  - Download Offical Pycharm 
- - Then Open the pythonProject folder with 
+ - Then Open the pythonProject folder with Pycharm
