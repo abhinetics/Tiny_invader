@@ -6,3 +6,4 @@
 # INSTALLATION
  - Download Offical Pycharm 
  - Then Open the pythonProject folder with Pycharm
+ - Place all the assets correctly
